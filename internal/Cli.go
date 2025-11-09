@@ -1,4 +1,4 @@
-package mood
+package whip
 
 import (
 	"os"

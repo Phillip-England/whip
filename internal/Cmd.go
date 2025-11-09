@@ -1,4 +1,4 @@
-package mood
+package whip
 
 type Cmd interface {
 	Execute(cli *Cli) error
